@@ -1,0 +1,6 @@
+nelmio_api_doc:
+    documentation:
+        info:
+            title: "Docker example project"
+            description: "An example of a web project with a Symfony back-end and a Vue.js front-end, used in containers ready for development and production environments."
+            version: 0.0.0
